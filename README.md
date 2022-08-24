@@ -1,8 +1,8 @@
-# cookify
+# Cookify
 
-##**Cookify App**
+**Cookbook App**
 
-###Overview
+# Overview
 
 This Cooking App will provide an open source platform to enable curated recipes to be searched and executed.
 A user would select available recipes based on basic criteria, 
@@ -14,9 +14,9 @@ cooking goals, which with performance tracking intuitively guides the user to ac
 A performance score is tracked to reflect the user’s ability to comply with the time constraints. 
 Forward and backward buttons will enable re-traversal and acceleration of the cooking sequence for negative and positive score impacts.
 
-###**Features Overview**
+# **Features Overview**
 
 This Cooking App will be built in Flutter and provide the following key capabilities:
 A. An automated, guided recipe execution
 B. Recipe sharing into a global database(Advance)
-C. Training progression
+C. Training progression(Advance)
