@@ -1,3 +1,9 @@
+<h3 align="center"> 
+  <a href="https://discord.gg/7HhXhbN9pe"><img src="https://avatars.githubusercontent.com/u/111001087?s=200&v=4" width="100"></a>
+<br>  
+   Meet on <a href="https://discord.gg/7HhXhbN9pe">Discord</a>
+</h3>
+
 # Cookify App
 
 App designed to cater the Home Chefs
