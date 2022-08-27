@@ -1,4 +1,4 @@
-import 'package:cookify/screens/homeScreen.dart';
+import 'package:cookify/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +10,7 @@ class AppStart extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       home: HomeScreen(),
     );
   }

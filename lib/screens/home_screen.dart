@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: SafeArea(
         child: Padding(
-          padding: const EdgeInsets.only(left: 15,right: 15,top: 20),
+          padding: const EdgeInsets.only(left: 15, right: 15, top: 20),
           child: Column(
             children: [
               Row(
@@ -35,10 +35,13 @@ class _HomeScreenState extends State<HomeScreen> {
                 ],
               ),
               Padding(
-                padding: const EdgeInsets.only(top:8.0),
+                padding: const EdgeInsets.only(top: 8.0),
                 child: Row(
-                  children: [
-                    Text('Cook from chefs menu',style: ksmalltitle,),
+                  children: const [
+                    Text(
+                      'Cook from chefs menu',
+                      style: ksmalltitle,
+                    ),
                   ],
                 ),
               ),
